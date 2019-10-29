@@ -1,0 +1,25 @@
+go to the comparison at 0040 and check what it generates to what you put in.
+
+Patrick with 1 as serial
+EAX
+00005476
+21622
+
+EBX
+0000124F
+4687
+
+subtract the signed integers between
+Adjust for the one
+Patrick real - 17986
+
+
+Shifu
+177715
+
+yujie
+17866
+
+
+Yiming 
+17793
